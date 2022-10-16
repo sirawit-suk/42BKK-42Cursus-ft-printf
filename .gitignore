@@ -1,0 +1,14 @@
+# Don't forget to get gitignore out before submit
+*.a
+*.o
+*.out
+venv/
+# because has .git inside
+
+TESTER*/
+
+.vscode/
+
+# will add after submission completed
+*.md
+main.c
